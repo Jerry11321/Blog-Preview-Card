@@ -39,7 +39,8 @@ p {
     margin: 20px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     align-items: center;
-    width: 400px;
+    width: 350px;
+    border: 2px solid black;
 }
 
 .box {
